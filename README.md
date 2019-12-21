@@ -1,5 +1,6 @@
 # textClassification
-Comparative Analysis of CNN, RNN and HAN for Text Classification with GloVe Data
+Comparative Analysis of different deep neural network architectures: CNN, RNN and HAN (Convolutional, Recurrent, Hierarchical Attention Networks) for Text Classification using GloVe Embeddings on IMDB movie review dataset from 
+Kaggle
 
 Team Members:
 
