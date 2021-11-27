@@ -11,15 +11,16 @@ In this capstone project, performed a comparative analysis of different deep neu
 
 
 # Libraries/Dependencies:
+
         1) pickle
         2) pandas
-	2) numpy
-	3) keras.models, keras.layers, keras.utils, keras.preprocessing
-	4) collections framework
-	5) BeautifulSoup
-	6) sklearn
-	7) Glove Data (glove.6B.100d.txt)
-	8) Kaggle Dataset (labeledTrainData.tsv)
+	3) numpy
+	4) keras.models, keras.layers, keras.utils, keras.preprocessing
+	5) collections framework
+	6) BeautifulSoup
+	7) sklearn
+	8) Glove Data (glove.6B.100d.txt)
+	9) Kaggle Dataset (labeledTrainData.tsv)
 
 
 # Instructions to Run:
