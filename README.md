@@ -1,19 +1,16 @@
-# textClassification
-Comparative Analysis of different deep neural network architectures: CNN, RNN and HAN (Convolutional, Recurrent, Hierarchical Attention Networks) for Text Classification using GloVe Embeddings on IMDB movie review dataset from 
-Kaggle
+# Project Details:
 
-Team Members:
+Titled - Comparative Analysis of different deep neural network architectures: CNN, RNN and HAN (This is work done for the Capstone Project for graduate level course - CS 591 Algorithms for Data Guided Business Intelligence).
 
-1. Venkata Pasumarty
-2. LV Raju Nadimpalli
-3. Krishnachaitanya Pullakandam
+In this capstone project, performed a comparative analysis of different deep neural network architectures: CNN, RNN and HAN (Convolutional, Recurrent, Hierarchical Attention Network models) for Text Classification using GloVe Embeddings on IMDB movie review dataset from Kaggle.
 
+# Author: Krishnachaitanya Pullakandam
 
-Dataset:
+# Dataset:
 	Kaggle IMDB Sentiment Reviews (Link: http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 
 
-Libraries/Dependencies:
+# Libraries/Dependencies:
         1) pickle
         2) pandas
 	2) numpy
@@ -25,14 +22,22 @@ Libraries/Dependencies:
 	8) Kaggle Dataset (labeledTrainData.tsv)
 
 
-Instructions to Run:
+# Instructions to Run:
 
 	python cnn.py
 	python rnn.py
 	python han.py
+	
+
+# Observations:
+Achieved the following accuracies using each of the models: 
+
+1. CNN(85\%) 
+2. RNN(81\%) and 
+3. HAN(92\%) 
 
 
-References:
+# References:
 
 	1) https://www.nltk.org/api/nltk.tokenize.html
 	2) https://keras.io/layers/writing-your-own-keras-layers/
